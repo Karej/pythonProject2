@@ -17,3 +17,4 @@ blue_th0 = -1.5
 red_th = np.array([[1, 0]]).T
 red_th0 = -2.5
 print(find_sum(data, labels, blue_th, blue_th0))
+print(123)
